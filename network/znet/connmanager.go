@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/simondong1979/iTreansfer/network/ziface"
+	"github.com/simondong1979/iTransfer/network/ziface"
 )
 
 //ConnManager 连接管理模块

@@ -6,7 +6,7 @@ import (
 	_ "net/http/pprof"
 	"time"
 
-	"github.com/aceld/zinx/modbus"
+	"github.com/simondong1979/iTransfer/modbus"
 )
 
 func main() {

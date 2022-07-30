@@ -1,7 +1,7 @@
 package main
 
 import (
-	modbus "github.com/aceld/zinx/modbus"
+	modbus "github.com/simondong1979/iTransfer/modbus"
 )
 
 func main() {

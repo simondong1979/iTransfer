@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/simondong1979/iTreansfer/network/znet"
+	"github.com/simondong1979/iTransfer/network/znet"
 )
 
 //只是负责测试datapack拆包，封包功能

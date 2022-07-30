@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aceld/zinx/modbus"
+	"github.com/simondong1979/iTransfer/modbus"
 )
 
 func main() {

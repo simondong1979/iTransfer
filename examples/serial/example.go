@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/aceld/zinx/serial"
+	"github.com/simondong1979/iTransfer/serial"
 )
 
 var (

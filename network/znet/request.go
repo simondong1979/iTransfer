@@ -1,6 +1,6 @@
 package znet
 
-import "github.com/simondong1979/iTreansfer/network/ziface"
+import "github.com/simondong1979/iTransfer/network/ziface"
 
 //Request 请求
 type Request struct {

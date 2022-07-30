@@ -1,9 +1,9 @@
 package zrouter
 
 import (
-	"github.com/simondong1979/iTreansfer/network/ziface"
-	"github.com/simondong1979/iTreansfer/network/zlog"
-	"github.com/simondong1979/iTreansfer/network/znet"
+	"github.com/simondong1979/iTransfer/network/ziface"
+	"github.com/simondong1979/iTransfer/network/zlog"
+	"github.com/simondong1979/iTransfer/network/znet"
 )
 
 //ping test 自定义路由

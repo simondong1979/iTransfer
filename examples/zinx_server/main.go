@@ -7,10 +7,10 @@
 package main
 
 import (
-	"github.com/simondong1979/iTreansfer/examples/zinx_server/zrouter"
-	"github.com/simondong1979/iTreansfer/network/ziface"
-	"github.com/simondong1979/iTreansfer/network/zlog"
-	"github.com/simondong1979/iTreansfer/network/znet"
+	"github.com/simondong1979/iTransfer/examples/zinx_server/zrouter"
+	"github.com/simondong1979/iTransfer/network/ziface"
+	"github.com/simondong1979/iTransfer/network/zlog"
+	"github.com/simondong1979/iTransfer/network/znet"
 )
 
 //创建连接的时候执行

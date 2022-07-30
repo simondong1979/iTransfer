@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/simondong1979/iTreansfer/network/znet"
+	"github.com/simondong1979/iTransfer/network/znet"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package modbus
 import (
 	"time"
 
-	"github.com/aceld/zinx/serial"
+	"github.com/simondong1979/iTransfer/serial"
 )
 
 // ClientProviderOption client provider option for user.

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/simondong1979/iTreansfer/network/utils"
-	"github.com/simondong1979/iTreansfer/network/ziface"
+	"github.com/simondong1979/iTransfer/network/utils"
+	"github.com/simondong1979/iTransfer/network/ziface"
 )
 
 var zinxLogo = `                                        

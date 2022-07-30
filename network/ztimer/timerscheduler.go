@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/simondong1979/iTreansfer/network/zlog"
+	"github.com/simondong1979/iTransfer/network/zlog"
 )
 
 const (

@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/Transefer/iTransfer/modbus"
+	"github.com/simondong1979/iTransfer/modbus"
 	"time"
 
-	"github.com/Transfer/iTransfer/serial"
+	"github.com/simondong1979/iTransfer/serial"
 	//	modbus "github.com/things-go/go-modbus"
 )
 
