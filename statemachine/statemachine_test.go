@@ -3,7 +3,7 @@ package statemachine_test
 import (
 	"testing"
 
-	"github.com/dipeshdulal/statemachine"
+	"github.com/simondong1979/iTransfer/statemachine"
 	"github.com/stretchr/testify/assert"
 )
 

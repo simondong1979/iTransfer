@@ -1,8 +1,8 @@
 /**
-* @Author: Aceld
-* @Date: 2020/12/24 00:24
-* @Mail: danbing.at@gmail.com
-*    zinx server demo
+* @Author:
+* @Date: 2022 00:24
+* @Mail:
+*    server demo
  */
 package main
 

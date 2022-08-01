@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aceld/zinx/serial"
+	"github.com/simondong1979/iTransfer/serial"
 )
 
 // check implements ClientProvider interface

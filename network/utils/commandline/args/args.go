@@ -1,7 +1,7 @@
 package args
 
 import (
-	"github.com/simondong1979/iTreansfer/network/utils/commandline/uflag"
+	"github.com/simondong1979/iTransfer/network/utils/commandline/uflag"
 	"os"
 	"path"
 )

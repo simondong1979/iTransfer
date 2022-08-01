@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-	_ "net/http/pprof"
+	"net/http/pprof"
 	"time"
 
 	"github.com/simondong1979/iTransfer/modbus"

@@ -11,10 +11,10 @@ package utils
 
 import (
 	"encoding/json"
-	"github.com/simondong1979/iTreansfer/network/utils/commandline/args"
-	"github.com/simondong1979/iTreansfer/network/utils/commandline/uflag"
-	"github.com/simondong1979/iTreansfer/network/ziface"
-	"github.com/simondong1979/iTreansfer/network/zlog"
+	"github.com/simondong1979/iTransfer/network/utils/commandline/args"
+	"github.com/simondong1979/iTransfer/network/utils/commandline/uflag"
+	"github.com/simondong1979/iTransfer/network/ziface"
+	"github.com/simondong1979/iTransfer/network/zlog"
 	"io/ioutil"
 	"os"
 )

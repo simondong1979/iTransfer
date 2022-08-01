@@ -40,7 +40,7 @@ func (df *DelayFunc) String() string {
 //Call 执行延迟函数---如果执行失败，抛出异常
 func (df *DelayFunc) Call() {
 	defer func() {
-		if err := recover(); err != nil {
+		if err := recover(); nil != err {
 			zlog.Error(df.String(), "Call err: ", err)
 		}
 	}()

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/simondong1979/iTransfer/modbus"
-	"time"
+	time "time"
 
 	"github.com/simondong1979/iTransfer/serial"
 	//	modbus "github.com/things-go/go-modbus"
